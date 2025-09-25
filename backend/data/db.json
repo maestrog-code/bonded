@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "Cuthbert",
+      "status": "Taken",
+      "partner": "Gemini"
+    },
+    {
+      "name": "Gemini",
+      "status": "Taken",
+      "partner": "Cuthbert"
+    },
+    {
+      "name": "John Doe",
+      "status": "Single",
+      "partner": null
+    }
+  ]
+}
